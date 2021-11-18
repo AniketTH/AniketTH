@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniket_Thorat
 - 👀 I’m interested in Coding in JAVA.
-- 🌱 I’m currently learning CDAC.
-- 💞️ I’m looking to collaborate on CDAC.
+- 🌱 I’m currently learning ATOM Technologies
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
